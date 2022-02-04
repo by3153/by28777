@@ -1,7 +1,7 @@
 # by28777,com
 
 <title>by2877,com - 域名查询方法</title>
-<script src="https://unpkg.com/vue/dist/vue.js"></script>
+<script src=""></script>
 </head>
 <body>
 <div id="app">
