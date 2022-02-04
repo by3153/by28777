@@ -1,6 +1,6 @@
 # by28777,com
 
-<title>by2877,com - 域名查询方法</title>
+<title>by2877,com - 域名查询</title>
 <script src=""></script>
 </head>
 <body>
