@@ -12,7 +12,7 @@
 new Vue({
   el: '#app',
   data: {
-    message: 'Hello by28777.js!'
+    message: 'Hello By28777!'
   }
 })
 </script>
