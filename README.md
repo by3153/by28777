@@ -2,7 +2,7 @@
 
 <title>by2877,com - 域名查询</title>
 <script src=""></script>
-</head>
+
 <body>
 <div id="app">
   <p>{{ message }}</p>
