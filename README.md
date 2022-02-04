@@ -1,8 +1,5 @@
 # by28777,com
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="utf-8">
+
 <title>by2877,com - 域名查询方法</title>
 <script src="https://unpkg.com/vue/dist/vue.js"></script>
 </head>
@@ -19,5 +16,3 @@ new Vue({
   }
 })
 </script>
-</body>
-</html>
